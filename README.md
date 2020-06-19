@@ -1,3 +1,3 @@
 # jorgelaraeln.github.io
-PROYECTOS:
+# PROYECTOS:
 SIMULADOR DE FISICA: jorgelaraeln.github.io/simulador
